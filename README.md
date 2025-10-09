@@ -11,8 +11,8 @@ Void was good, but I didn't find it was practical for me to get an
 idea of where things were going nor what the current status happened
 to be (e.g. if many folks were experiencing some issue due to a
 change).  It looked like to get any sense of what was going on that
-one would need to have decent IRC access and that's not something I've
-figured out how to do satisfactorily.
+one would need to have decent IRC access [1] and that's not something
+I've figured out how to do satisfactorily.
 
 Linux Mint is something I've used before (though quite a while back)
 and being Ubuntu-based not too unfamiliar because Debian was one of
@@ -20,6 +20,17 @@ the first Linuxish systems I used.
 
 Would be nice if LMDE became the main thing and unfortunate that Mint
 uses systemd, but one can't have everything I suppose...
+
+[1] https://github.com/void-linux/void-packages/discussions/46087
+
+> Like it or not, IRC is one of the few official methods of
+> communication used by Void. We do our best to post critical updates
+> to Reddit or the web site, but if you really want to keep abreast of
+> the ongoing developments with Void, you should track the
+> void-packages RSS feed, the GitHub issue list, and the #voidlinux
+> IRC channel. That some users prefer to ignore a major channel of
+> communication with team does not imply that we do a bad job
+> communicating with users.
 
 ## Overview
 
